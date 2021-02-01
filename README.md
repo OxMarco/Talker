@@ -1,5 +1,5 @@
 # Talker
-
+![logo](https://raw.githubusercontent.com/grcasanova/Talker/master/logo.png)
 
 A simple dual-channel radio communication system over LoRa.
 
@@ -14,7 +14,7 @@ Talker is based on the TTGO LoRa32 board, an ESP32 with a LoRa transceiver and a
 To extend the range you can wiggle LoRa settings like spreading factor, bandwidth, coding rate, use better antennae or add a middlepoint repeater (currently in brewing).
 
 ## Hardware
-![TTGO LoRa32 V1.2]()
+![TTGO LoRa32 V2.1](https://raw.githubusercontent.com/grcasanova/Talker/master/ttgo.jpg)
 
 ## ToDo
 * Implement location messages using Javascript *mobile Geolocation API*
